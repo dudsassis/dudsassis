@@ -1,8 +1,8 @@
 ### Hii, eu sou Eduarda Assis!!
 
-- 🔭 Estudando de ADS(Análise e desenvolvimento de sistemas) 3/5
-- 🌱 20 anos
-- 🧠 Fullstack
+- 🔭 Estudando de ADS(Análise e desenvolvimento de sistemas) 4/5
+- 🌱 21 anos
+- 🧠 Frontend
 - 💬 Atualmente mexo com: JS,HTML,CSS,PHP e Banco de dados
 - 😄 Pronomes: ela/dela
           
